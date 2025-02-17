@@ -1,3 +1,3 @@
 ## FUll work agency portfolio
 
-![capturing](/images/screen.png)
+![capturing](/images/screencapture.png)
